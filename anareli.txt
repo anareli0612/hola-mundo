@@ -1,0 +1,8 @@
+ HTML
+      <HEAD>
+      <TITLE> SOY ANARELI </TITLE>
+      </HEAD>
+
+      <BODY> ESTA ES MI SEGUNDA PAGINA EN 		
+	PLANTEL 64 AMANALCO
+           hola mundo
